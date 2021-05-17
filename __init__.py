@@ -1,0 +1,6 @@
+"""
+
+Initializing WebApp as module
+
+
+"""
