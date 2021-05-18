@@ -18,7 +18,9 @@ or manually install:
 
     requests == 2.25.1
 
-    ipaddress==1.0.23 
+    ipaddress==1.0.23
+    
+    uwsgi==2.0.19.1
 
 
 ## Resources
